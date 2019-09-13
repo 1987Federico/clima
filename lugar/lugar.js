@@ -35,11 +35,3 @@ return {
 module.exports={
     getLugarLatLong
 };
-
-//instance.get()
-//        .then(resp=>{
-//            console.log(resp.data.Results[0]);
-//        })
-//        .catch(err=>{
-//            console.log('Error!!!!',err);
-//        });        

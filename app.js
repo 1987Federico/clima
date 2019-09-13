@@ -1,4 +1,3 @@
-const lugar=require("./lugar/lugar");
 const clima=require("./lugar/lugarLatitud");
 
 
